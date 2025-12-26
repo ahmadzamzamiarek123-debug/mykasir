@@ -1,0 +1,59 @@
+
+        /* Aesthetic soft: Background biru muda, elemen coklat cream */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e0f7fa; /* Biru muda soft */
+            color: #5d4037; /* Coklat gelap untuk teks */
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #4e342e; /* Coklat cream gelap */
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff8e1; /* Coklat cream lembut */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        input, button {
+            padding: 10px;
+            margin: 5px;
+            border: 1px solid #bcaaa4; /* Coklat cream border */
+            border-radius: 5px;
+        }
+        button {
+            background-color: #8d6e63; /* Coklat cream tombol */
+            color: white;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #6d4c41; /* Coklat lebih gelap saat hover */
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #bcaaa4;
+            text-align: left;
+        }
+        th {
+            background-color: #d7ccc8; /* Coklat cream header */
+        }
+        .total {
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .pesan {
+            color: green;
+            font-weight: bold;
+        }
